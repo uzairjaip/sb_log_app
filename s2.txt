@@ -1,7 +1,4 @@
 this is for stash command 
-
-
+git rebase
 this is after git stash
-
 this is anpother
-
